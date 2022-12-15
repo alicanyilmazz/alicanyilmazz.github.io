@@ -1,0 +1,55 @@
+#command{
+    width: 300px;
+    border: 0px;
+    background-color: black;
+    color: #CCC5B9;
+    outline-width: 0;
+}
+
+#about, #education, #projects, #experience, #skills, #contact, #connect, #error, #help, #download ,#coffee{
+    display:none;
+}
+
+#resume-container{
+    padding: 15px;
+}
+
+#terminal-color1{
+    color: #282C34;
+}
+
+#terminal-color2{
+    color: #E06C75;
+}
+
+
+#terminal-color3{
+    color: #98C379;
+}
+
+#terminal-color4{
+    color: #E5C07B;
+}
+
+#terminal-color5{
+    color: #61AFEF;
+}
+
+#terminal-color6{
+    color: #C678DD;
+}
+
+#terminal-color7{
+    color: #56B6C2;
+}
+
+#terminal-color8{
+    color: #ABB2BF;
+}
+
+@font-face {
+    font-family: menlo;
+    src: url(Menlo-Regular.ttf);
+}
+
+
